@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "7aa362e3550643c06a5eddd10f6d92cc48e5faa0"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "SwaggerAllTheWay.Console/1.0.0": {
+        "dependencies": {
+          "SwaggerAllTheWay.Client": "1.0.1"
+        },
+        "runtime": {
+          "SwaggerAllTheWay.Console.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "SwaggerAllTheWay.Client/1.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/SwaggerAllTheWay.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwaggerAllTheWay.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "path": "newtonsoft.json/11.0.1",
+      "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
+    },
+    "SwaggerAllTheWay.Client/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K3Oftng0NBk/fSLR7O+KTVDUu2T9IL13oHzAEHdfkD1ym9g0SZXoMsYAcc1Feoi3bqW5zjYmVzs3WIn6fXXNUQ==",
+      "path": "swaggeralltheway.client/1.0.1",
+      "hashPath": "swaggeralltheway.client.1.0.1.nupkg.sha512"
+    }
+  }
+}

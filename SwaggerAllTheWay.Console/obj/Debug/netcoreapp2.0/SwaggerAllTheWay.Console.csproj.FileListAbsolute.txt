@@ -1,0 +1,10 @@
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\obj\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.csproj.CoreCompileInputs.cache
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\obj\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.AssemblyInfoInputs.cache
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\obj\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.AssemblyInfo.cs
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\bin\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.deps.json
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\bin\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.runtimeconfig.json
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\bin\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.runtimeconfig.dev.json
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\bin\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.dll
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\bin\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.pdb
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\obj\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.dll
+C:\Users\thiago\Source\Repos\Temp\SwaggerAllTheWay\SwaggerAllTheWay.Console\obj\Debug\netcoreapp2.0\SwaggerAllTheWay.Console.pdb
